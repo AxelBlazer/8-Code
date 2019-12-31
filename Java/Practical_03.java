@@ -6,17 +6,17 @@ class Practical_03
     {
         Scanner in = new Scanner(System.in);
         
-        final double METERS_PER_FOOT = 0.305;
-	System.out.print("Enter The Value Of Feet: ");
-	double feet = input.nextDouble()
-	double meters = feet * METERS_PER_FOOT;
-	System.out.println(feet + " Feet is " + meters + " Meters");
+        final double FEET_PER_METERS = 3.2808;
+	System.out.print("Enter The Value Of Meter: ");
+	double meter = in.nextDouble();
+	double feet = meter * FEET_PER_METERS;
+	System.out.println(meter + " Meter is " + feet + " Feet");
     }
 }
 
 /*
 Output : 
-Enter The Value Of Feet:
+Enter The Value Of Meter:
 10
-10.0 Feet is 3.05 Meters.
+10.0 Meter is 32.808 Feet.
 */
