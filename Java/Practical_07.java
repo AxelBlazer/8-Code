@@ -13,7 +13,7 @@ class Practical_07
         int N3 = (int)(Math.random() * 10);
         int N4 = (int)(Math.random() * 10);
         
-        System.out.println("" + (char)(L1) + ((char)(L2)) + ((char)(L3)) + N1 + N2 + N3 + N4);
+        System.out.println("" + (char)(L1) + (char)(L2)) + ((char)(L3) + N1 + N2 + N3 + N4);
     }
 }
 
