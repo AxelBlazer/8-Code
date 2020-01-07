@@ -5,8 +5,8 @@ for((i=2;i<=a;i++))
 {
         fact=$((fact*i))
 }
-echo $fact
+echo "Factorial Is : $fact"
 
 # Output
 5
-120
+Factorial Is : 120
