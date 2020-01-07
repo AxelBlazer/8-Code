@@ -19,6 +19,7 @@ else
         echo "You Get Fail"
 fi
 
+# Output
 Enter Three Subject Marks.
 89
 85
