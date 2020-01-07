@@ -18,10 +18,10 @@ class Practical_06
 
 /*
 Output :
-Enter Any Latter
+Enter Any Letter
 j
 j is A Constant 
-Enter Any Latter
+Enter Any Letter
 a
 a is A Vowel
 */
