@@ -18,3 +18,11 @@ then
 else
         echo "You Get Fail"
 fi
+
+Enter Three Subject Marks.
+89
+85
+75
+Sum Is : 249
+Percentage Is : 83
+You Get Distinction
