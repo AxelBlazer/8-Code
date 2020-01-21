@@ -1,21 +1,24 @@
-echo "Enter Any Number : "
-read b
-i=2
-while [ $i -lt $b ]
+echo "Enter Any Number"
+read n
+for((i=2;i<=n;i++))
 do
-  if [ `expr $b % $i` -eq 0 ]
-  then
-      echo "$b Is Not A Prime Number"
-      exit
-  fi
-  i=`expr $i + 1`
+        flag=0
+        for((j=2;j<i;j++))
+        do
+                if [ `expr $i % $j` -eq 0 ]
+                then
+                        flag=1
+                fi
+        done
+        if [ $flag -eq 0 ]
+        then
+                echo "$i"
+        fi
 done
-echo "$b Is A Prime Number "
 
 # output :
 Enter Any Number :
-13 
-13 Is A Prime Number
-Enter Any Number :
-68 
-68 Is Not A Prime Number 
+5
+2
+3
+5
