@@ -3,7 +3,7 @@ read a
 fact=1
 for((i=2;i<=a;i++))
 {
-        fact=$((fact*i)) // fact=`expr $fact \* $i`
+        fact=$((fact*i)) # fact=`expr $fact \* $i`
 }
 echo "Factorial Is : $fact"
 
