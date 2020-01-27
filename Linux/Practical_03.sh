@@ -8,5 +8,6 @@ for((i=2;i<=a;i++))
 echo "Factorial Is : $fact"
 
 # Output
+Enter Any Number
 5
 Factorial Is : 120
