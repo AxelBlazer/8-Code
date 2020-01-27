@@ -1,5 +1,6 @@
-echo "Enter Any Number"
+echo "Enter Any Number :"
 read n
+echo "Prime Numbers Are :"
 for((i=2;i<=n;i++))
 do
         flag=0
@@ -19,6 +20,7 @@ done
 # output :
 Enter Any Number :
 5
+Prime Numbers Are :
 2
 3
 5
