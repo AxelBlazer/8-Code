@@ -59,8 +59,16 @@ class Practical_13
 	}
 }
 
+/*
+Output :
+Enter Any Equation
+5      +  9
 
+Seperate Equation
+5 
++ 
+9 
 
-
-
-		
+Result Is
+5.0+9.0=14.0
+*/
