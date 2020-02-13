@@ -41,6 +41,10 @@ class Practical_14
 	}
 }
 
-
-	
-	
+/*
+Output:
+Loan@65e579dc
+Circle@61baa894
+SSEC
+Thu Feb 13 15:00:01 EST 2020
+*/
