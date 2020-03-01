@@ -2649,6 +2649,5 @@ function getMobileCircle($number) {
 
 echo getMobileCircle(9981534313);
 echo " \n";
-echo getMobileCircle(XXXXXXXXXX);
 
 ?>
