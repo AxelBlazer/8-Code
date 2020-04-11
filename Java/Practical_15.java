@@ -21,7 +21,6 @@ class Practical_15
       		System.out.print("Enter A Binary Number : ");
        		String BinaryString =input.nextLine();
 		BinaryToDecimal(BinaryString);
-		
 	} 
 }
 
