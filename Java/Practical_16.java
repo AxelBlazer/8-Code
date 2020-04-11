@@ -15,7 +15,7 @@ class Practical_16
 }
 
 /*
-Output :-
+Output :
 Enter Any Number : 25.36
 Int Part Is : 25.0
 Fractional Part Is : 0.3600006
