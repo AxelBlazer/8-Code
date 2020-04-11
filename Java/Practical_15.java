@@ -4,7 +4,7 @@ class Practical_15
 {
 	public static int BinaryToDecimal(String BinaryString) throws NumberFormatException 
 	{
-    int a=0;
+    		int a=0;
 		int Decimal = 0;
 		for (int i = 0, j = BinaryString.length() - 1; i < BinaryString.length(); i++, j--) 
 		{
@@ -25,7 +25,8 @@ class Practical_15
 	} 
 }
 
-/*Output :-
+/*
+Output :
 Enter A Binary Number : 101010
 Decimal Number Is : 42
 */
