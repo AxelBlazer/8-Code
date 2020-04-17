@@ -43,7 +43,7 @@ c. Display Usernames Those Are Currently Logged In The System
 d. Display Your Name At Given x, y Position
 e. Display Your Terminal Number
 c
-AxcelBlazer
+AxelBlazer
 a. Display Calendar Of Current Month
 b. Display Today's Date And Time
 c. Display Usernames Those Are Currently Logged In The System
