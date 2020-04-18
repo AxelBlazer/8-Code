@@ -1,0 +1,5 @@
+Write a shell script to read n numbers as command arguments and sort them in descending order.
+Write a shell script to display all executable files, directories and zero sized files from current directory.
+Write a shell script to check entered string is palindrome or not.
+Shell programming using filters (including grep, egrep, fgrep)
+Study of Unix Shell and Environment Variables.
